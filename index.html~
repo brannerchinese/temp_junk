@@ -6,7 +6,5 @@
       document.write(Date());
     </script>
 
-    We are here.
-
   </body>
 </html> 
